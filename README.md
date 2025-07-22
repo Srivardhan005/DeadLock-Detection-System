@@ -20,7 +20,8 @@ It then:
 
 ## 📸 Example Graph Output
 
-<img width="484" height="504" alt="image" src="https://github.com/user-attachments/assets/0eb514c4-fda5-487f-8e2c-c7940a35637c" />
+<img width="484" height="504" alt="image" src="https://github.com/user-attachments/assets/84b43302-ccec-4b95-83d8-9ed18a237e56" />
+
 
 
 ---
